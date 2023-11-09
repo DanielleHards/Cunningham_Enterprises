@@ -70,3 +70,22 @@ header a {
   margin-top: 32px;
   display: inline-block;
 }
+.secondary h3,
+p {
+  text-align: center;
+}
+.secondary a {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.5;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  background: var(--branding-color);
+  border-radius: 4px;
+  text-decoration: none;
+  color: white;
+  padding: 16px 32px;
+  margin-top: 32px;
+  display: inline-block;
+}
