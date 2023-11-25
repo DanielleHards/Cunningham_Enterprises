@@ -85,9 +85,9 @@ p {
   border-radius: 4px;
   text-decoration: none;
   color: white;
-  padding: 16px 32px;
+  padding: 32px;
   margin-top: 32px;
-  display: inline-block;
+  display: block;
 }
 .photoGrid h2 {
   text-align: center;
