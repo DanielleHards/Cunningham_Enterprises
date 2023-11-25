@@ -89,3 +89,46 @@ p {
   margin-top: 32px;
   display: inline-block;
 }
+.photoGrid h2 {
+  text-align: center;
+}
+.lawnPrimary h1 {
+  font-weight: 600;
+  line-height: 1.5;
+}
+.lawnPrimary h2 {
+  font-weight: 200;
+  font-size: 14px;
+}
+.fabricationPrimary h1 {
+  font-weight: 600;
+  line-height: 1.5;
+}
+.fabricationPrimary h2 {
+  font-weight: 200;
+  font-size: 14px;
+}
+footer {
+  text-align: center;
+  background: var(--branding-color);
+  color: white;
+  border-radius: 6px;
+  margin-top: 35px;
+  font-size: 18px;
+  padding-top: 5px;
+}
+footer a {
+  border-radius: 4px;
+  background: var(--secondary-color);
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  padding: 10px;
+}
+.contactInfo h1 {
+  font-size: 64px;
+  font-weight: bold;
+}
+.contactInfo h3 {
+  font-size: 24px;
+}
